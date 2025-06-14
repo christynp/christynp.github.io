@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Technology, Artificial Intelligence and Machine Learning  
+  uni: [Your University Name]  
+  year: 2020 — 2024  
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: [Any academic honors or relevant awards, e.g., Dean's List, Top 10% of class]  
+  summary: Mention any key projects, internships, research, or leadership roles you held during your B.Tech program.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+- degree: High School Diploma  
+  uni: Springfield High School  
+  year: 2020  
+  awards:  
+    - award: Most likely to succeed  
   summary: You can choose to have either a single or multiple awards
